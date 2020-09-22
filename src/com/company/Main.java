@@ -6,5 +6,6 @@ public class Main {
         System.out.println("owi");
         System.out.println("owi");
         System.out.println("owi");
+        System.out.println("owi");
     }
 }
